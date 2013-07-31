@@ -1,0 +1,55 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyPhotonCloud", "MyPhotonCloud.vcxproj", "{88FC4501-9AA9-47A9-9EC5-7F8C27A86666}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LoadBalancing-cpp", "..\..\..\..\..\..\..\..\..\Games\HumanDreams\Photon-Win32_v3-2-2-1_Cloud_SDK\LoadBalancing-cpp\LoadBalancing-cpp.vcxproj", "{EA5D8C8B-8D27-46E4-BDD9-DBD6A3C685E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		debug_android_armeabi|Win32 = debug_android_armeabi|Win32
+		debug_android_armeabi-v7a|Win32 = debug_android_armeabi-v7a|Win32
+		debug_win32|Win32 = debug_win32|Win32
+		Debug|Win32 = Debug|Win32
+		release_android_armeabi|Win32 = release_android_armeabi|Win32
+		release_android_armeabi-v7a|Win32 = release_android_armeabi-v7a|Win32
+		release_win32|Win32 = release_win32|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88FC4501-9AA9-47A9-9EC5-7F8C27A86666}.debug_android_armeabi|Win32.ActiveCfg = Debug|Win32
+		{88FC4501-9AA9-47A9-9EC5-7F8C27A86666}.debug_android_armeabi|Win32.Build.0 = Debug|Win32
+		{88FC4501-9AA9-47A9-9EC5-7F8C27A86666}.debug_android_armeabi-v7a|Win32.ActiveCfg = Debug|Win32
+		{88FC4501-9AA9-47A9-9EC5-7F8C27A86666}.debug_android_armeabi-v7a|Win32.Build.0 = Debug|Win32
+		{88FC4501-9AA9-47A9-9EC5-7F8C27A86666}.debug_win32|Win32.ActiveCfg = Debug|Win32
+		{88FC4501-9AA9-47A9-9EC5-7F8C27A86666}.debug_win32|Win32.Build.0 = Debug|Win32
+		{88FC4501-9AA9-47A9-9EC5-7F8C27A86666}.Debug|Win32.ActiveCfg = Debug|Win32
+		{88FC4501-9AA9-47A9-9EC5-7F8C27A86666}.Debug|Win32.Build.0 = Debug|Win32
+		{88FC4501-9AA9-47A9-9EC5-7F8C27A86666}.release_android_armeabi|Win32.ActiveCfg = Release|Win32
+		{88FC4501-9AA9-47A9-9EC5-7F8C27A86666}.release_android_armeabi|Win32.Build.0 = Release|Win32
+		{88FC4501-9AA9-47A9-9EC5-7F8C27A86666}.release_android_armeabi-v7a|Win32.ActiveCfg = Release|Win32
+		{88FC4501-9AA9-47A9-9EC5-7F8C27A86666}.release_android_armeabi-v7a|Win32.Build.0 = Release|Win32
+		{88FC4501-9AA9-47A9-9EC5-7F8C27A86666}.release_win32|Win32.ActiveCfg = Release|Win32
+		{88FC4501-9AA9-47A9-9EC5-7F8C27A86666}.release_win32|Win32.Build.0 = Release|Win32
+		{88FC4501-9AA9-47A9-9EC5-7F8C27A86666}.Release|Win32.ActiveCfg = Release|Win32
+		{88FC4501-9AA9-47A9-9EC5-7F8C27A86666}.Release|Win32.Build.0 = Release|Win32
+		{EA5D8C8B-8D27-46E4-BDD9-DBD6A3C685E8}.debug_android_armeabi|Win32.ActiveCfg = debug_android_armeabi|Win32
+		{EA5D8C8B-8D27-46E4-BDD9-DBD6A3C685E8}.debug_android_armeabi|Win32.Build.0 = debug_android_armeabi|Win32
+		{EA5D8C8B-8D27-46E4-BDD9-DBD6A3C685E8}.debug_android_armeabi-v7a|Win32.ActiveCfg = debug_android_armeabi-v7a|Win32
+		{EA5D8C8B-8D27-46E4-BDD9-DBD6A3C685E8}.debug_android_armeabi-v7a|Win32.Build.0 = debug_android_armeabi-v7a|Win32
+		{EA5D8C8B-8D27-46E4-BDD9-DBD6A3C685E8}.debug_win32|Win32.ActiveCfg = debug_win32|Win32
+		{EA5D8C8B-8D27-46E4-BDD9-DBD6A3C685E8}.debug_win32|Win32.Build.0 = debug_win32|Win32
+		{EA5D8C8B-8D27-46E4-BDD9-DBD6A3C685E8}.Debug|Win32.ActiveCfg = debug_win32|Win32
+		{EA5D8C8B-8D27-46E4-BDD9-DBD6A3C685E8}.Debug|Win32.Build.0 = debug_win32|Win32
+		{EA5D8C8B-8D27-46E4-BDD9-DBD6A3C685E8}.release_android_armeabi|Win32.ActiveCfg = release_android_armeabi|Win32
+		{EA5D8C8B-8D27-46E4-BDD9-DBD6A3C685E8}.release_android_armeabi|Win32.Build.0 = release_android_armeabi|Win32
+		{EA5D8C8B-8D27-46E4-BDD9-DBD6A3C685E8}.release_android_armeabi-v7a|Win32.ActiveCfg = release_android_armeabi-v7a|Win32
+		{EA5D8C8B-8D27-46E4-BDD9-DBD6A3C685E8}.release_android_armeabi-v7a|Win32.Build.0 = release_android_armeabi-v7a|Win32
+		{EA5D8C8B-8D27-46E4-BDD9-DBD6A3C685E8}.release_win32|Win32.ActiveCfg = release_win32|Win32
+		{EA5D8C8B-8D27-46E4-BDD9-DBD6A3C685E8}.release_win32|Win32.Build.0 = release_win32|Win32
+		{EA5D8C8B-8D27-46E4-BDD9-DBD6A3C685E8}.Release|Win32.ActiveCfg = release_win32|Win32
+		{EA5D8C8B-8D27-46E4-BDD9-DBD6A3C685E8}.Release|Win32.Build.0 = release_win32|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
